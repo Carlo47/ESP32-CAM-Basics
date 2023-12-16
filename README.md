@@ -43,7 +43,7 @@ ESP32-CAM must be programmed with an FTDI-Converter (UART-USB) as follows:
 * Push reset button to run the code
 
 ## Terminal output
-![OUT](images/output.jpg)
+![OUT](images/screenshot.jpg)
 
 ## Visual effects
 * The builtin red led blinks every second for 50 ms
